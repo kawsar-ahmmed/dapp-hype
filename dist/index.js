@@ -1,3 +1,4 @@
 "use strict";
-const course = "This is ok";
-console.log(course);
+const course = 'This is my course';
+const rollNumber = 32;
+const isAdmin = true;
